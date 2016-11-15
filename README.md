@@ -1,2 +1,2 @@
 # Solution to Hackerrank WalmartLabs Codesprint (machine learning)
-Problem Name: # Products on Virtual Shelves
+Problem Name: Products on Virtual Shelves
