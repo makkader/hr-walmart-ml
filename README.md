@@ -2,7 +2,7 @@
 Problem Name: [Products on Virtual Shelves](https://www.hackerrank.com/contests/walmart-codesprint-ml/challenges/products-shelves-tagging)
 
 
-This is the solution that gave me the first position in the final leaderboard.
+This is the solution that gave me the first position in the final [leaderboard](https://www.hackerrank.com/contests/walmart-codesprint-ml/challenges/products-shelves-tagging/leaderboard).
 # Prerequisites
 - Python 2.7
   - sklearn
@@ -10,4 +10,9 @@ This is the solution that gave me the first position in the final leaderboard.
   - BeautifulSoup
   - numpy
   - defaultdict
+  
+# How to use this script
+- Convert train.tsv and test.tsv files to train.csv and test.csv respectively. (MS excel)
+- Run the solution.py script.  
+
   
